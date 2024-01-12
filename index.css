@@ -1,0 +1,35 @@
+*
+{
+    margin:0px;
+    padding:0px;
+}
+#holds
+{
+    width:30%;
+    height:700px;
+    box-shadow:0 10px 6px 0 rgba(6, 221, 233, 0.3);
+    margin-top:100px;
+    margin-left:100px;
+}
+img 
+{
+    height:80%;
+    width:100%;
+    padding-top:50px;
+}
+#paragraphs
+{
+    font-size: 2.4em;
+    font-weight:bold;
+    color:lightseagreen;
+    margin-left:100px;
+}
+#subject
+{
+    font-size:2.5em;
+    font-weight:bold;
+    color:lightcoral;
+    margin-left:100px;
+}
+
+
