@@ -3,10 +3,10 @@
     margin:0px;
     padding:0px;
 }
-#holds
+.holds
 {
     width:30%;
-    height:700px;
+    height:800px;
     box-shadow:0 10px 6px 0 rgba(6, 221, 233, 0.3);
     margin-top:100px;
     margin-left:100px;
@@ -24,12 +24,9 @@ img
     color:lightseagreen;
     margin-left:100px;
 }
-#subject
+.container
 {
-    font-size:2.5em;
-    font-weight:bold;
-    color:lightcoral;
-    margin-left:100px;
+    display: flex;
+    flex-wrap: wrap;    
 }
-
 
